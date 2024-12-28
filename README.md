@@ -28,6 +28,6 @@
 - 📧 Email(college): [teslart@kookmin.ac.kr](mailto:teslart@kookmin.ac.kr)
 - 📧 Email(Personal): [001208yun@gmail.com](mailto:001208yun@gmail.com)
 - [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-CODE_THE_CAR-green?logo=naver&logoColor=white)](https://blog.naver.com/tbdtbd1208)
-- [![YouTube](https://img.shields.io/badge/YouTube-Senna1208-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/Senna1208)
+- [![YouTube](https://img.shields.io/badge/YouTube-Senna1208-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Senna1208)
 
 ---
